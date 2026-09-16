@@ -1,3 +1,12 @@
 {
-  "records": []
+  "records": [
+    {
+      "id": "mu45uu782sl1",
+      "odo": 25963,
+      "date": "2026-09-07",
+      "oil": "XXX",
+      "by": "Service center",
+      "notes": null
+    }
+  ]
 }
